@@ -42,7 +42,7 @@
           <div class="w3-content">
             <div class="w3-twothird">
               <h1>Why do we even need anonymous therapy?</h1>
-              <h5 class="w3-padding-32"> It is very common for people to be embarrassed to come forward and admit that they have a mental health problem and even when </h5>
+              <h5 class="w3-padding-32"> It is very common for people to be embarrassed to come forward and admit that they have a mental health problem, especially with the stigma that around mental health.</h5>
 
               <p class="w3-text-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
                 occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
